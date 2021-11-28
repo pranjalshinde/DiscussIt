@@ -1,8 +1,8 @@
 # DiscussIt
 
-## Link for the web app : [https://discussit.netlify.app/](url)
+## Link for the web app : [Web App](https://discussit.netlify.app/)
 
-## Link for Video Demo : [https://youtu.be/ZSBvX7skyag](url)
+## Link for Video Demo : [Video Demo](https://youtu.be/ZSBvX7skyag)
 
 
 ### *Introduction :*
