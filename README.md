@@ -5,17 +5,17 @@
 ## Link for Video Demo : [https://youtu.be/ZSBvX7skyag](url)
 
 
-### *Introduction : *
+### *Introduction :*
 
 This is web app is made for students to connect them in the time of pandemic for academic and other social purposes.
 
-### *Features : *
+### *Features :*
 
-#### ** 1. Create Channel : **
+#### 1. Create Channel :
 
 Channel is a group space where students will chat with each other.
 
-#### ** 2. Messaging formats : **
+#### 2. Messaging formats : 
 
 Students can: 
 
