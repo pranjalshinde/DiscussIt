@@ -41,3 +41,9 @@ Students can change name of any existing channel and add other members.
 #### 5. Search Channel : 
 
 Students can search any existing channel in the search bar.
+
+## Screenshot: 
+
+![DiscussIt Image](https://user-images.githubusercontent.com/47748647/143769043-caec2a90-106c-4a13-8ca1-647f9bb7cab1.png)
+
+
